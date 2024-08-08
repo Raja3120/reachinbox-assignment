@@ -1,14 +1,14 @@
-Overview
+### Overview
 This server-based application, built with Node.js and Express, manages and automates email responses for Google and Outlook accounts. By leveraging BullMQ as a task scheduler, the server parses incoming emails, uses AI to analyze the context, and responds accordingly. This project integrates multiple services and APIs to provide a seamless and intelligent email management experience.
 
-Technologies Used
+### Technologies Used
 Node.js
 Express.js
 OpenAI
 Google APIs
 Microsoft Graph API
 
-NPM Packages
+### NPM Packages
 dotenv - For environment variable management.
 axios - For making HTTP requests.
 bullMQ - For task scheduling and queue management.
@@ -17,7 +17,7 @@ ioredis - Redis client for Node.js.
 @microsoft/microsoft-graph-client - Microsoft Graph API client.
 @azure/msal-node - Microsoft Authentication Library (MSAL) for Node.js.
 
-Environment Variables
+### Environment Variables
 Create a .env file in the root directory with the following keys (refer to the API documentation for specific values):
 
 PORT = ***
@@ -33,7 +33,7 @@ AZURE_CLIENT_ID = ***
 AZURE_CLIENT_SECRET = *** 
 AZURE_TENANT_ID = ***
 
-Start the Server 
+### Start the Server 
 
 npm start
 
