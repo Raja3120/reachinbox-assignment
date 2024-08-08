@@ -21,7 +21,6 @@ ioredis - Redis client for Node.js.
 Create a .env file in the root directory with the following keys (refer to the API documentation for specific values):
 
 PORT = ***
-
 GOOGLE_CLIENT_ID = ***
 GOOGLE_CLIENT_SECRET = ***
 GOOGLE_REDIRECT_URI = ***
