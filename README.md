@@ -36,31 +36,54 @@ npm start
 <br>
 
 ### Starting npm 
+
 <br>
 
 ![image](https://github.com/user-attachments/assets/b573bf1f-c36d-429e-8418-4e070cb3a940)
 <br>
+
 ### Login Page
+
 <br>
 
 ![image](https://github.com/user-attachments/assets/36d4e075-b2a8-4a4e-a77d-3ab6b6996bdf)
 <br>
+
 ### Google Authentication
+To enable Google authentication, set up OAuth 2.0 credentials in the Google Cloud Console by creating a new project and configuring your OAuth consent screen. Download the OAuth credentials file and store the client_id, client_secret, and redirect_uri in your .env file. Ensure that the necessary API scopes are added for reading, sending, and modifying Gmail emails.
+
 <br>
 
-![image](https://github.com/user-attachments/assets/f0e8b7ce-7bcd-4b93-ba57-0fb477c4ebe4)
+![image](https://github.com/user-attachments/assets/6419b979-5726-419f-9942-6f97c4ba8011)
+
+
 <br>
+
 ### Access
+
+For enabling Google access, users will typically see a consent screen during the OAuth process, where they can choose to either "Continue" or "Cancel". The "Continue" option grants the specified permissions (such as reading, sending, and modifying emails), while "Cancel" will deny access, and the application will not be able to interact with the user's Google account. Make sure your application clearly explains the permissions it requires and why they are necessary to ensure user trust and compliance with Google's policies.
 <br>
 
-![image](https://github.com/user-attachments/assets/79ddac09-bc5b-43d2-b6ca-c197a66a2d7f)
-<br>
-### Scopes provided
+![image](https://github.com/user-attachments/assets/d915a582-181e-4315-b910-de916ec2f7dc)
+
 <br>
 
-![image](https://github.com/user-attachments/assets/bff86bc2-6383-4df9-8afb-582256199674)
+### Scopes used
+1. **Read**: Accesses the user's email messages and metadata for analysis and processing.
+2. **Write**: Allows modification and updating of email messages, such as organizing or tagging.
+3. **Send**: Grants permission to send emails on behalf of the user, essential for automating responses.
+
+These scopes enable full email management capabilities, including reading, organizing, and sending messages.
+
+
 <br>
+
+![image](https://github.com/user-attachments/assets/ba40ed0f-dc5a-4c18-96ea-4375e85895bd)
+
+<br>
+
 ### scopes passed
+
 <br>
 
 ![image](https://github.com/user-attachments/assets/362e7429-968d-4605-9e24-ba18052bd0a6)
@@ -74,6 +97,16 @@ The workflow described for Google also applies seamlessly to Outlook. After conn
 
 This ensures that whether you're using Google or Outlook, the application provides a consistent and efficient email management experience.
 
+### Demonstration
+
+To showcase the tool's functionality:
+
+1. **Connect Email Accounts**: Use OAuth to connect new email accounts for both Gmail and Outlook.
+2. **Send Test Emails**: Send an email to these accounts from another account to generate test data.
+3. **Email Processing**: The tool will read the incoming emails, categorize them, and assign labels accordingly.
+4. **Automatic Reply**: Display the automatic reply sent based on the content of the received emails.
+
+This demonstration highlights the tool's capabilities in managing and responding to emails efficiently.
 
 
 
