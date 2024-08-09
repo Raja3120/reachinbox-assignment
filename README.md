@@ -87,7 +87,8 @@ These scopes enable full email management capabilities, including reading, organ
 
 <br>
 
-![image](https://github.com/user-attachments/assets/362e7429-968d-4605-9e24-ba18052bd0a6)
+![image](https://github.com/user-attachments/assets/59ab1e21-d128-4fe9-b32a-549c5b571d40)
+
 
 <br><br>
 
