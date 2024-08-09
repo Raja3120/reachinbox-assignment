@@ -83,11 +83,12 @@ These scopes enable full email management capabilities, including reading, organ
 
 <br>
 
-### scopes passed
+### Scopes passed
 
 <br>
 
-![image](https://github.com/user-attachments/assets/59ab1e21-d128-4fe9-b32a-549c5b571d40)
+![image](https://github.com/user-attachments/assets/560448d3-8765-40cc-85ad-d5b7f2cad6a2)
+
 
 
 <br><br>
