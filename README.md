@@ -31,28 +31,34 @@ AZURE_TENANT_ID = ***<br>
 npm start
 <br>
 ## Work in flow
-
+<br>
 ### Starting npm 
+<br>
 
 ![image](https://github.com/user-attachments/assets/b573bf1f-c36d-429e-8418-4e070cb3a940)
-
+<br>
 ### Login Page
+<br>
 
 ![image](https://github.com/user-attachments/assets/36d4e075-b2a8-4a4e-a77d-3ab6b6996bdf)
-
+<br>
 ### Google Authentication
+<br>
 
 ![image](https://github.com/user-attachments/assets/f0e8b7ce-7bcd-4b93-ba57-0fb477c4ebe4)
-
+<br>
 ### Access
+<br>
 
 ![image](https://github.com/user-attachments/assets/79ddac09-bc5b-43d2-b6ca-c197a66a2d7f)
-
+<br>
 ### Scopes provided
+<br>
 
 ![image](https://github.com/user-attachments/assets/bff86bc2-6383-4df9-8afb-582256199674)
-
+<br>
 ### scopes passed
+<br>
 
 ![image](https://github.com/user-attachments/assets/362e7429-968d-4605-9e24-ba18052bd0a6)
 
