@@ -56,6 +56,14 @@ npm start
 
 ![image](https://github.com/user-attachments/assets/362e7429-968d-4605-9e24-ba18052bd0a6)
 
+### Outlook Integration and Automated Responses
+
+The workflow described for Google also applies seamlessly to Outlook. After connecting to an Outlook account, the application will:
+
+1. **Parse and Check Emails:** Similar to the Google integration, it will retrieve and analyze incoming emails in the Outlook account.
+2. **Automated AI Response:** The OpenAI model is employed to read the content of the emails. Based on the context, it will generate and send appropriate replies in short, concise text.
+
+This ensures that whether you're using Google or Outlook, the application provides a consistent and efficient email management experience.
 
 
 
