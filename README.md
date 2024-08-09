@@ -104,7 +104,7 @@ To showcase the tool's functionality:
 1. **Connect Email Accounts**: Use OAuth to connect new email accounts for both Gmail and Outlook.
 2. **Send Test Emails**: Send an email to these accounts from another account to generate test data.
 3. **Email Processing**: The tool will read the incoming emails, categorize them, and assign labels accordingly.
-4. **Automatic Reply**: Display the automatic reply sent based on the content of the received emails.
+4. **Automatic Reply**: Automatic reply sent based on the content of the received emails.
 
 This demonstration highlights the tool's capabilities in managing and responding to emails efficiently.
 
