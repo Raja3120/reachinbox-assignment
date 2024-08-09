@@ -32,4 +32,40 @@ AZURE_TENANT_ID = ***<br>
 ### Start the Server 
 
 npm start
+<br>
+###Work in flow
+
+###Starting npm 
+
+![image](https://github.com/user-attachments/assets/b573bf1f-c36d-429e-8418-4e070cb3a940)
+
+###Login Page
+
+![image](https://github.com/user-attachments/assets/36d4e075-b2a8-4a4e-a77d-3ab6b6996bdf)
+
+###Google Authentication
+
+![image](https://github.com/user-attachments/assets/f0e8b7ce-7bcd-4b93-ba57-0fb477c4ebe4)
+
+###Access
+
+![image](https://github.com/user-attachments/assets/0211585c-a2a0-492a-ac88-0b069c8d15ba)
+
+###Scopes provided
+
+![image](https://github.com/user-attachments/assets/bff86bc2-6383-4df9-8afb-582256199674)
+
+###scopes passed
+
+![image](https://github.com/user-attachments/assets/362e7429-968d-4605-9e24-ba18052bd0a6)
+
+
+
+
+
+
+
+
+
+
 
