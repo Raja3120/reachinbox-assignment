@@ -54,7 +54,8 @@ To enable Google authentication, set up OAuth 2.0 credentials in the Google Clou
 
 <br>
 
-![image](https://github.com/user-attachments/assets/6419b979-5726-419f-9942-6f97c4ba8011)
+![image](https://github.com/user-attachments/assets/dde826b7-6077-4cfc-8aba-aba0f4c63706)
+
 
 
 <br>
@@ -64,7 +65,7 @@ To enable Google authentication, set up OAuth 2.0 credentials in the Google Clou
 For enabling Google access, users will typically see a consent screen during the OAuth process, where they can choose to either "Continue" or "Cancel". The "Continue" option grants the specified permissions (such as reading, sending, and modifying emails), while "Cancel" will deny access, and the application will not be able to interact with the user's Google account. Make sure your application clearly explains the permissions it requires and why they are necessary to ensure user trust and compliance with Google's policies.
 <br>
 
-![image](https://github.com/user-attachments/assets/d915a582-181e-4315-b910-de916ec2f7dc)
+![image](https://github.com/user-attachments/assets/73525485-df93-4019-9ce5-39d3fa6afb38)
 
 <br>
 
@@ -87,6 +88,8 @@ These scopes enable full email management capabilities, including reading, organ
 <br>
 
 ![image](https://github.com/user-attachments/assets/362e7429-968d-4605-9e24-ba18052bd0a6)
+
+<br><br>
 
 ### Outlook Integration and Automated Responses
 
